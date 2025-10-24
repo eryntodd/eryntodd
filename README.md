@@ -23,7 +23,7 @@ Eryn Todd @Eryntodd
 - Forensics: Autopsy, EnCase, Splunk, CrowdStrike Falcon, Wireshark, Maltego, and IDS/IPS. 
 - Systems: Linux/Kali Linux, Git, Microsoft Office Suite, and Google Workplace.
 
-OSU: AS in Computer Science, B.S. Computer Science Engineering with specialization in AI. Status: Degree in Progress; CSE undergraduate.
+OSU: A.S. in Computer Science, B.S. Computer Science Engineering with specialization in AI. Status: Degree in Progress; CSE undergraduate.
 Selected Upper-Division Coursework: Survey of Artificial Intelligence I/II, Machine Learning and Statistical Pattern Recognition,
 Computer Vision for Human-Computer Interaction, and Introduction to Neural Networks.
 Full-Time IT Analyst during undergrad.
