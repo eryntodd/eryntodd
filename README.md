@@ -14,10 +14,18 @@
 -->
 Eryn Todd @Eryntodd
 
-- Currently looking for my next role in Security Engineering, threat intelligence, or digital forensics.
-- Current Role: IT Service Support Analyst II, CSE undergrad with specialization in AI.
+- Looking for my next role in Security Engineering, threat intelligence, or digital forensics.
+- Current role: IT Service Support Analyst II, CSE undergrad with specialization in AI.
+- Currently working on: 
 
 - Lanuages: Python, Java, C/C++, SQL, and HTML/CSS.
-- AI/ML:
-- Forensics:
-- Systems:
+- AI/ML: PyTorch, OpenAI, Gemini API's, ML Research, and Computer Vision.
+- Forensics: Autopsy, EnCase, Splunk, CrowdStrike Falcon, Wireshark, Maltego, and IDS/IPS. 
+- Systems: Linux/Kali Linux, Git, Microsoft Office Suite, and Google Workplace.
+
+OSU: AS in Computer Science, B.S. Computer Science Engineering with specialization in AI. Status: Degree in Progress; CSE undergraduate.
+Selected Upper-Division Coursework: Survey of Artificial Intelligence I/II, Machine Learning and Statistical Pattern Recognition,
+Computer Vision for Human-Computer Interaction, and Introduction to Neural Networks.
+Full-Time IT Analyst during undergrad.
+
+Contact information: Email - Eryntodd55@gmail.com, Phone - (937)207-1331
