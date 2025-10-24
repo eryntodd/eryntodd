@@ -16,7 +16,7 @@ Eryn Todd @Eryntodd
 
 - Looking for my next role in Security Engineering, threat intelligence, or digital forensics.
 - Current role: IT Service Support Analyst II, CSE undergrad with specialization in AI.
-- Currently working on: 
+- Currently working on: Hack OHI/O project regarding AI.
 
 - Lanuages: Python, Java, C/C++, SQL, and HTML/CSS.
 - AI/ML: PyTorch, OpenAI, Gemini API's, ML Research, and Computer Vision.
