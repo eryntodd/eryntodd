@@ -14,7 +14,7 @@
 -->
 Eryn Todd @Eryntodd
 
-- Looking for my next role in Security Engineering, threat intelligence, or digital forensics.
+- Looking for my next role in Security Engineering, Threat Intelligence, or Digital Forensics.
 - Current role: IT Service Support Analyst II, CSE undergrad with specialization in AI.
 - Currently working on: Hack OHI/O project regarding AI.
 
