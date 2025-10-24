@@ -12,3 +12,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Eryn Todd @Eryntodd
+
+- Currently looking for my next role in Security Engineering, threat intelligence, or digital forensics.
+- Current Role: IT Service Support Analyst II, CSE undergrad with specialization in AI.
+
+- Lanuages: Python, Java, C/C++, SQL, and HTML/CSS.
+- AI/ML:
+- Forensics:
+- Systems:
