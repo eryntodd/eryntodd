@@ -26,6 +26,7 @@ Eryn Todd @Eryntodd
 OSU: A.S. in Computer Science, B.S. Computer Science Engineering with specialization in AI. Status: Degree in Progress; CSE undergraduate.
 Selected Upper-Division Coursework: Survey of Artificial Intelligence I/II, Machine Learning and Statistical Pattern Recognition,
 Computer Vision for Human-Computer Interaction, and Introduction to Neural Networks.
+
 Full-Time IT Analyst during undergrad.
 
 Contact information: Email - Eryntodd55@gmail.com, Phone - (937)207-1331
